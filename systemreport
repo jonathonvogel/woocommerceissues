@@ -1,0 +1,237 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://karenblaauw.com
+Site address (URL): https://karenblaauw.com
+WC Version: 4.8.0
+REST API Version: ✔ 4.8.0
+WC Blocks Version: ✔ 3.8.1
+Action Scheduler Version: ✔ 3.1.6
+WC Admin Version: ✔ 1.7.3
+Log Directory Writable: ✔
+WP Version: 5.6
+WP Multisite: –
+WP Memory Limit: 768 MB
+WP Debug Mode: –
+WP Cron: –
+Language: en_US
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.3.25
+PHP Post Max Size: 256 MB
+PHP Time Limit: 120
+PHP Max Input Vars: 3000
+cURL Version: 7.66.0
+OpenSSL/1.1.1g-fips
+
+SUHOSIN Installed: –
+MySQL Version: 5.7.26-29-log
+Max Upload Size: 256 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 4.8.0
+WC Database Prefix: royal_
+Total Database Size: 644.19MB
+Database Data Size: 322.53MB
+Database Index Size: 321.66MB
+royal_woocommerce_sessions: Data: 4.52MB + Index: 0.08MB + Engine InnoDB
+royal_woocommerce_api_keys: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_woocommerce_attribute_taxonomies: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+royal_woocommerce_downloadable_product_permissions: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+royal_woocommerce_order_items: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+royal_woocommerce_order_itemmeta: Data: 0.11MB + Index: 0.10MB + Engine MyISAM
+royal_woocommerce_tax_rates: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+royal_woocommerce_tax_rate_locations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_woocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_woocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+royal_woocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_woocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_woocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_actionscheduler_actions: Data: 0.06MB + Index: 0.11MB + Engine InnoDB
+royal_actionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_actionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_actionscheduler_logs: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_advanced_notifications: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_advanced_notification_triggers: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_commentmeta: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+royal_comments: Data: 0.04MB + Index: 0.03MB + Engine MyISAM
+royal_contact: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_envoo_account: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_envoo_media: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_envoo_pages: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_fa_user_logins: Data: 280.75MB + Index: 305.67MB + Engine InnoDB
+royal_itsec_lockouts: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_itsec_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_itsec_temp: Data: 15.85MB + Index: 12.20MB + Engine MyISAM
+royal_links: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_options: Data: 2.67MB + Index: 0.26MB + Engine MyISAM
+royal_postmeta: Data: 4.85MB + Index: 1.65MB + Engine MyISAM
+royal_posts: Data: 11.95MB + Index: 0.32MB + Engine MyISAM
+royal_rank_math_404_logs: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_rank_math_internal_links: Data: 0.11MB + Index: 0.05MB + Engine InnoDB
+royal_rank_math_internal_meta: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+royal_rank_math_redirections: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_rank_math_redirections_cache: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_termmeta: Data: 0.08MB + Index: 0.06MB + Engine InnoDB
+royal_terms: Data: 0.04MB + Index: 0.09MB + Engine MyISAM
+royal_term_relationships: Data: 0.05MB + Index: 0.10MB + Engine MyISAM
+royal_term_taxonomy: Data: 0.04MB + Index: 0.06MB + Engine MyISAM
+royal_usermeta: Data: 0.05MB + Index: 0.02MB + Engine MyISAM
+royal_users: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+royal_wc_admin_notes: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wc_admin_note_actions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_wc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wc_customer_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_wc_download_log: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_wc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_wc_order_product_lookup: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+royal_wc_order_stats: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+royal_wc_order_tax_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+royal_wc_product_meta_lookup: Data: 0.14MB + Index: 0.16MB + Engine InnoDB
+royal_wc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_wc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+royal_widget_layout: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+royal_wplc_actions_queue: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+royal_wplc_chat_msgs: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_chat_ratings: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_chat_sessions: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_chat_triggers: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_custom_fields: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_departments: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_offline_messages: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_quick_responses: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_roi_conversions: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_roi_goals: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wplc_webhooks: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wpmailsmtp_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+royal_wpml_mails: Data: 0.36MB + Index: 0.00MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 1001
+custom_css: 1
+customize_changeset: 29
+et_footer_layout: 1
+et_header_layout: 1
+et_pb_layout: 14
+et_template: 2
+et_theme_builder: 2
+nav_menu_item: 21
+page: 47
+portfolio: 8
+post: 11
+product: 265
+product_variation: 645
+revision: 1019
+shop_coupon: 13
+shop_order: 102
+shop_order_refund: 3
+slide: 1
+testimonials: 1
+wcpa_pt_forms: 2
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (18) ###
+
+Divi Responsive Helper: by Pee-Aye Creative – 1.3.2
+Easy WP SMTP: by wpecommerce
+alexanderfoxc – 1.4.4
+
+Site Kit by Google: by Google – 1.22.0
+Insert Headers and Footers: by WPBeginner – 1.5.0
+Rank Math SEO: by Rank Math – 1.0.54.3
+SG Optimizer: by SiteGround – 5.7.11
+Themify - WooCommerce Product Filter: by Themify – 1.3.3
+UpdraftPlus - Backup/Restore: by UpdraftPlus.Com
+DavidAnderson – 1.16.42
+
+User Login History: by Er Faiyaz Alam – 2.0.0
+Velvet Blues Update URLs: by VelvetBlues.com – 3.2.10
+WooCommerce Advanced Notifications: by WooThemes / Mike Jolley – 1.1.2 – Installed version not tested with active version of WooCommerce 4.0
+WooCommerce Extra Product Options Pro: by ThemeHigh – 3.0.0
+WooCommerce Multiple Email Recipients: by Barn2 Plugins – 1.0.2
+WooCommerce: by Automattic – 4.8.0
+3CX Live Chat: by 3CX – 9.1.2
+WP Mail Logging: by MailPoet – 1.9.7
+WP-PageNavi: by Lester 'GaMerZ' Chan – 2.93.3
+WP Rollback: by Impress.org – 1.7.1
+
+### Inactive Plugins (1) ###
+
+WooCommerce Product Add-ons: by WooThemes – 1.2.0 – Installed version not tested with active version of WooCommerce 4.0
+
+### Dropin Plugins (1) ###
+
+install.php: install.php
+
+### Settings ###
+
+API Enabled: ✔
+Force SSL: –
+Currency: USD ($)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+
+### WC Pages ###
+
+Shop base: #4 - /gallery/
+Cart: #5 - /cart/
+Checkout: #6 - /checkout/
+My account: #8 - /my-account/
+Terms and conditions: #1760 - /our-policies/
+
+### Theme ###
+
+Name: Divi
+Version: 4.7.6
+Author URL: http://www.elegantthemes.com
+Child Theme: ❌ – If you are modifying WooCommerce on a parent theme that you did not build personally we recommend using a child theme. See: How to create a child theme
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: –
+
+### Action Scheduler ###
+
+Complete: 130
+Oldest: 2020-11-18 19:38:07 +0000
+Newest: 2020-12-12 06:39:07 +0000
+
+`
